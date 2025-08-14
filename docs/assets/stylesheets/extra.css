@@ -252,18 +252,21 @@
 .timeline-item li ul li {
   font-size: 0.9rem;
   margin: 0.25rem 0;
+  padding-left: 16px;
 }
 
 .timeline-item li ul li::before {
   width: 8px;
   height: 8px;
   background: #a0aec0;
+  left: 4px;
 }
 
 .timeline-item li ul li a {
   color: #4A90E2;
   text-decoration: none;
   font-weight: 500;
+  font-size: 0.85rem;
 }
 
 .timeline-item li ul li a:hover {

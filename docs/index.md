@@ -77,7 +77,7 @@ hide:
       <ul>
         <li class="active">Lethean Miner Launch <span class="date"></span></li>
         <li class="active">New Lethean Chain <span class="date"></span></li>
-        <li class="nested"><a href="/tokenomics.html">Tokenomics (Draft)</a></li>
+        <li class="nested-deep"><a href="/tokenomics.html">Tokenomics (Draft)</a></li>
       </ul>
     </div>
         <div class="timeline-item planning">

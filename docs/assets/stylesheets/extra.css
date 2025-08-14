@@ -252,14 +252,14 @@
 .timeline-item li ul li {
   font-size: 0.9rem;
   margin: 0.25rem 0;
-  padding-left: 0;
+  padding-left: 24px;
 }
 
 .timeline-item li ul li::before {
   width: 8px;
   height: 8px;
   background: #a0aec0;
-  left: -16px;
+  left: 0;
 }
 
 .timeline-item li ul li a {

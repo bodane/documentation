@@ -4,6 +4,12 @@ repo_url: https://github.com/letheanVPN/documentation
 repo_name: letheanVPN/documentation
 edit_uri: edit/main/docs/
 site_url: https://lt.hn
+nav:
+  - Home: index.md
+  - Getting Started: getting-started/
+  - Guides: guides/
+  - VPN: vpn/
+  - Tokenomics: tokenomics.md
 theme:
   name: material
   custom_dir: overrides
